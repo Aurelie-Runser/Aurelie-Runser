@@ -13,6 +13,7 @@ Voici quelques langages et technos que j'ai pu utiliser au cours de mes divers p
   <img src="https://firebasestorage.googleapis.com/v0/b/mon-portfolio-d8659.appspot.com/o/icons%2FVueJs.svg?alt=media&token=60c10d33-692b-4389-8bd8-6195016aa845" alt="Vue.js" title="Vue.js" width="40">
   <img src="https://firebasestorage.googleapis.com/v0/b/mon-portfolio-d8659.appspot.com/o/icons%2FNuxt.svg?alt=media&token=87ef892d-3f0b-46ee-b089-4db6e428bba5" alt="Nuxt.js" title="Nuxt.js" width="40">
   <img src="https://firebasestorage.googleapis.com/v0/b/mon-portfolio-d8659.appspot.com/o/icons%2FQuasar.svg?alt=media&token=c23d0ccd-ef81-4c7a-9861-b8c9fc0deeaf" alt="Quasar.js" title="Quasar.js" width="40">
+  <img src="https://firebasestorage.googleapis.com/v0/b/mon-portfolio-d8659.appspot.com/o/icons%2FReact.svg?alt=media&token=f688923b-4a1b-40a4-b262-d7d42b5994e0" alt="React" title="React" width="40">
   <img src="https://firebasestorage.googleapis.com/v0/b/mon-portfolio-d8659.appspot.com/o/icons%2FCSS.svg?alt=media&token=6bf0bb6b-fc72-45e3-9233-5a1e8c1d4897" alt="CSS3" title="CSS3" width="40">
   <img src="https://firebasestorage.googleapis.com/v0/b/mon-portfolio-d8659.appspot.com/o/icons%2FSass.svg?alt=media&token=8c2755fb-bb58-41c9-b279-2927aea80f8c" alt="Sass" title="Sass" width="40">
   <img src="https://firebasestorage.googleapis.com/v0/b/mon-portfolio-d8659.appspot.com/o/icons%2FTailwind.svg?alt=media&token=8a5523b8-8d25-4748-8643-fe17b90b0fb0" alt="Tailwind" title="Tailwind" width="40">
